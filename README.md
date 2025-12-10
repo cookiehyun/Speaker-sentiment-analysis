@@ -107,6 +107,7 @@
 ---
 
 ## 🏛️ 시스템 아키텍처
+<img width="433" height="149" alt="image" src="https://github.com/user-attachments/assets/2fa1ce8a-0c10-4eea-ae4a-2bdf919adcbd" />
 
 ```
 [고령자 대화 텍스트 입력]
@@ -141,6 +142,7 @@
 ---
 
 ## 🧠 모델 구성
+![Uploading image.png…]()
 
 **텍스트 정제 및 토크나이징**
 - 구술 발화 전처리 (특수기호 및 불필요 텍스트 정리)
